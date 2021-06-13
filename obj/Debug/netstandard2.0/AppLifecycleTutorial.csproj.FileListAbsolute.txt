@@ -1,0 +1,13 @@
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfoInputs.cache
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfo.cs
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.csproj.CoreCompileInputs.cache
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.dll
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\ref\AppLifecycleTutorial.dll
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.pdb
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.deps.json
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.dll
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\ref\AppLifecycleTutorial.dll
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.pdb
+C:\Users\fzr60\source\repos\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\XamlC.stamp
